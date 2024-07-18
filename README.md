@@ -10,6 +10,9 @@
   <li>After the password is changed it will redirect you to the login page by there you can login</li>
 </ul>
 
+## Front End Deployment Link
+https://enchanting-bonbon-6a6623.netlify.app/
+
 ## End Points
 <ul>
   <li>SignUp/Register</li>
@@ -24,5 +27,4 @@
   <li>https://enchanting-bonbon-6a6623.netlify.app/landingpage</li>
 </ul>
 
-## Front End Deployment Link
-https://enchanting-bonbon-6a6623.netlify.app/
+
