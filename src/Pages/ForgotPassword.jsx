@@ -13,7 +13,7 @@ const ForgotPassword = () => {
     e.preventDefault();
     const payload = { email };
     await axios
-      .post("http://localhost:5000/api/user/forgot-password", payload)
+      .post("https://backend-password-reset-flow.onrender.com/api/user/forgot-password", payload)
       .then((res) => {
         toast.success(res.data.message);
         navigate("/signin");

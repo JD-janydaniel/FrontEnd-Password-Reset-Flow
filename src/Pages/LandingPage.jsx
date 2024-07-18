@@ -10,7 +10,7 @@ const LandingPage = ({ token }) => {
   }, []);
   const fetchData = async () => {
     await axios
-      .get("http://localhost:5000/api/user/get-user", {
+      .get("http://localhost:5000https://backend-password-reset-flow.onrender.com/api/user/get-user", {
         headers: {
           Authorization: token,
         },
