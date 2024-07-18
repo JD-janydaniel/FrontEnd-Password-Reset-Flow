@@ -68,7 +68,7 @@ const Signin = ({ setToken }) => {
                 Sign In
               </button>
               <p>
-                Don't Have an Acound Pleace!<Link to="/signup">Sign Up</Link>
+                Don't Have an Acount Please!<Link to="/signup">Sign Up</Link>
               </p>
               <Link to="/forgotpassword">Forgot Password?</Link>
             </form>
